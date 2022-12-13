@@ -69,4 +69,4 @@ npm install --save-dev @bobbymannino/svelte-on-screen
 
 ## **Bugs & Features**
 
-Submit all bugs and/or feature requests to the [issues panel](https://github.com/bobbymannino/svelte-on-view/issues) panel on GitHub
+Submit all bugs and/or feature requests to the [issues panel](https://github.com/bobbymannino/svelte-on-screen/issues) panel on GitHub
